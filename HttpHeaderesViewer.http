@@ -1,0 +1,6 @@
+@HttpHeaderesViewer_HostAddress = http://localhost:5062
+
+GET {{HttpHeaderesViewer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
